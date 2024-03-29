@@ -65,6 +65,6 @@
   ## Contributors
   
   This project was made possible with the help of many contributors (alphabetical):
-  Handi Deng, Wubin Fu and Yucheng Zhou.
+  Handi Deng, Wubin Fu, Yucheng Zhou,Jiaxuan Xiang, Yan Luo, Xuanhao Wang.
   Special thanks to [Segment-Anything](https://segment-anything.com/) for foundation model and [RS迷途小书童](https://blog.csdn.net/m0_56729804) for contributions made in model deployment
 
